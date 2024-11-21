@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import ShowList from "./components/pages/showList";
+import ShowList from "./pages/showList";
 
 const myComponent = <ShowList />;
 
