@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
-import Button from "../button";
-import ContentTable from "../contentTable";
-import Modal from "../modal";
+import Button from "../components/button";
+import ContentTable from "../components/contentTable";
+import Modal from "../components/modal";
 
 const ShowList = () => {
   const [data, setData] = useState([]);
